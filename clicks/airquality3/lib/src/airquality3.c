@@ -27,6 +27,8 @@
  *
  */
 
+//COMENTARIO PRUEBA IVAN
+
 #include "airquality3.h"
 
 // ------------------------------------------------ PUBLIC FUNCTION DEFINITIONS
